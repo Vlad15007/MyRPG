@@ -155,15 +155,15 @@
             // HeroArmor
             // 
             this.HeroArmor.ColumnCount = 2;
-            this.HeroArmor.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.HeroArmor.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.HeroArmor.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
+            this.HeroArmor.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 0F));
             this.HeroArmor.Controls.Add(this.label3, 0, 0);
             this.HeroArmor.Dock = System.Windows.Forms.DockStyle.Fill;
             this.HeroArmor.Location = new System.Drawing.Point(1, 32);
             this.HeroArmor.Margin = new System.Windows.Forms.Padding(0);
             this.HeroArmor.Name = "HeroArmor";
             this.HeroArmor.RowCount = 1;
-            this.HeroArmor.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.HeroArmor.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
             this.HeroArmor.Size = new System.Drawing.Size(381, 30);
             this.HeroArmor.TabIndex = 1;
             // 
@@ -175,21 +175,21 @@
             this.label3.Location = new System.Drawing.Point(0, 0);
             this.label3.Margin = new System.Windows.Forms.Padding(0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(190, 30);
+            this.label3.Size = new System.Drawing.Size(381, 30);
             this.label3.TabIndex = 0;
             // 
             // HeroHealth
             // 
             this.HeroHealth.ColumnCount = 2;
-            this.HeroHealth.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.HeroHealth.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.HeroHealth.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
+            this.HeroHealth.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 0F));
             this.HeroHealth.Controls.Add(this.label2, 0, 0);
             this.HeroHealth.Dock = System.Windows.Forms.DockStyle.Fill;
             this.HeroHealth.Location = new System.Drawing.Point(1, 1);
             this.HeroHealth.Margin = new System.Windows.Forms.Padding(0);
             this.HeroHealth.Name = "HeroHealth";
             this.HeroHealth.RowCount = 1;
-            this.HeroHealth.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.HeroHealth.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
             this.HeroHealth.Size = new System.Drawing.Size(381, 30);
             this.HeroHealth.TabIndex = 0;
             // 
@@ -201,7 +201,7 @@
             this.label2.Location = new System.Drawing.Point(0, 0);
             this.label2.Margin = new System.Windows.Forms.Padding(0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(190, 30);
+            this.label2.Size = new System.Drawing.Size(381, 30);
             this.label2.TabIndex = 0;
             // 
             // panel1
@@ -283,15 +283,15 @@
             // EnemyArmor
             // 
             this.EnemyArmor.ColumnCount = 2;
-            this.EnemyArmor.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.EnemyArmor.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.EnemyArmor.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 0F));
+            this.EnemyArmor.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
             this.EnemyArmor.Controls.Add(this.label4, 1, 0);
             this.EnemyArmor.Dock = System.Windows.Forms.DockStyle.Fill;
             this.EnemyArmor.Location = new System.Drawing.Point(1, 32);
             this.EnemyArmor.Margin = new System.Windows.Forms.Padding(0);
             this.EnemyArmor.Name = "EnemyArmor";
             this.EnemyArmor.RowCount = 1;
-            this.EnemyArmor.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.EnemyArmor.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
             this.EnemyArmor.Size = new System.Drawing.Size(381, 30);
             this.EnemyArmor.TabIndex = 1;
             // 
@@ -300,24 +300,24 @@
             this.label4.AutoSize = true;
             this.label4.BackColor = System.Drawing.Color.DimGray;
             this.label4.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label4.Location = new System.Drawing.Point(190, 0);
+            this.label4.Location = new System.Drawing.Point(0, 0);
             this.label4.Margin = new System.Windows.Forms.Padding(0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(191, 30);
+            this.label4.Size = new System.Drawing.Size(381, 30);
             this.label4.TabIndex = 0;
             // 
             // EnemyHealth
             // 
             this.EnemyHealth.ColumnCount = 2;
-            this.EnemyHealth.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.EnemyHealth.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.EnemyHealth.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 0F));
+            this.EnemyHealth.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
             this.EnemyHealth.Controls.Add(this.label5, 1, 0);
             this.EnemyHealth.Dock = System.Windows.Forms.DockStyle.Fill;
             this.EnemyHealth.Location = new System.Drawing.Point(1, 1);
             this.EnemyHealth.Margin = new System.Windows.Forms.Padding(0);
             this.EnemyHealth.Name = "EnemyHealth";
             this.EnemyHealth.RowCount = 1;
-            this.EnemyHealth.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.EnemyHealth.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
             this.EnemyHealth.Size = new System.Drawing.Size(381, 30);
             this.EnemyHealth.TabIndex = 0;
             // 
@@ -379,10 +379,10 @@
             this.label5.AutoSize = true;
             this.label5.BackColor = System.Drawing.Color.Maroon;
             this.label5.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label5.Location = new System.Drawing.Point(190, 0);
+            this.label5.Location = new System.Drawing.Point(0, 0);
             this.label5.Margin = new System.Windows.Forms.Padding(0);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(191, 30);
+            this.label5.Size = new System.Drawing.Size(381, 30);
             this.label5.TabIndex = 1;
             // 
             // button5
@@ -400,6 +400,7 @@
             this.button5.Size = new System.Drawing.Size(317, 155);
             this.button5.TabIndex = 1;
             this.button5.UseVisualStyleBackColor = true;
+            this.button5.Click += new System.EventHandler(this.Hod);
             // 
             // button6
             // 
@@ -416,6 +417,7 @@
             this.button6.Size = new System.Drawing.Size(317, 155);
             this.button6.TabIndex = 2;
             this.button6.UseVisualStyleBackColor = true;
+            this.button6.Click += new System.EventHandler(this.Hod);
             // 
             // button4
             // 
@@ -432,6 +434,7 @@
             this.button4.Size = new System.Drawing.Size(317, 155);
             this.button4.TabIndex = 0;
             this.button4.UseVisualStyleBackColor = true;
+            this.button4.Click += new System.EventHandler(this.Hod);
             // 
             // HeroLegs
             // 
@@ -520,6 +523,7 @@
             this.Controls.Add(this.tableLayoutPanel1);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.tableLayoutPanel1.ResumeLayout(false);
             this.tableLayoutPanel1.PerformLayout();
             this.Arena.ResumeLayout(false);

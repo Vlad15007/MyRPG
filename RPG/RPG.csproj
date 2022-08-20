@@ -110,5 +110,10 @@
   <ItemGroup>
     <None Include="Resources\SpartanecLegs.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="Music\epic.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

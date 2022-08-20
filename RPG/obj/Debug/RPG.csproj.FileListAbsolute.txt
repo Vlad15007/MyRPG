@@ -9,3 +9,4 @@ C:\Users\my comp\source\repos\RPG\RPG\obj\Debug\RPG.csproj.GenerateResource.cach
 C:\Users\my comp\source\repos\RPG\RPG\obj\Debug\RPG.csproj.CoreCompileInputs.cache
 C:\Users\my comp\source\repos\RPG\RPG\obj\Debug\RPG.exe
 C:\Users\my comp\source\repos\RPG\RPG\obj\Debug\RPG.pdb
+C:\Users\my comp\source\repos\RPG\RPG\bin\Debug\Music\epic.wav
