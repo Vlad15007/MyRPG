@@ -1,0 +1,11 @@
+C:\Users\my comp\source\repos\RPG\RPG\bin\Debug\RPG.exe.config
+C:\Users\my comp\source\repos\RPG\RPG\bin\Debug\RPG.exe
+C:\Users\my comp\source\repos\RPG\RPG\bin\Debug\RPG.pdb
+C:\Users\my comp\source\repos\RPG\RPG\obj\Debug\RPG.csproj.AssemblyReference.cache
+C:\Users\my comp\source\repos\RPG\RPG\obj\Debug\RPG.csproj.SuggestedBindingRedirects.cache
+C:\Users\my comp\source\repos\RPG\RPG\obj\Debug\RPG.Form1.resources
+C:\Users\my comp\source\repos\RPG\RPG\obj\Debug\RPG.Properties.Resources.resources
+C:\Users\my comp\source\repos\RPG\RPG\obj\Debug\RPG.csproj.GenerateResource.cache
+C:\Users\my comp\source\repos\RPG\RPG\obj\Debug\RPG.csproj.CoreCompileInputs.cache
+C:\Users\my comp\source\repos\RPG\RPG\obj\Debug\RPG.exe
+C:\Users\my comp\source\repos\RPG\RPG\obj\Debug\RPG.pdb
